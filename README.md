@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VrindaSahdev
-- 👀 I’m interested in algorithms
 - 🌱 I’m currently learning javascript 
 - 📫 You can reach me via email: vrindasahdev@gmail.com
 
